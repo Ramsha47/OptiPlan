@@ -3,6 +3,7 @@ import Header from './components/Header.jsx';
 import Hero from './components/Hero.jsx';
 import Footer from './components/Footer.jsx';
 import Features from './components/Features.jsx';
+import GoalInput from './components/GoalInput.jsx';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Header />
       <Hero />
       <Features />
+      <GoalInput />
       <Footer />
     </div>
   );
