@@ -30,7 +30,7 @@ const GoalInput = () => {
   return (
     <section style={sectionStyle}>
       <div style={containerStyle}>
-        <h2 style={titleStyle}>Plan Your Goals</h2>
+        <h2 style={titleStyle}>Plan Your Goals with Optiplan AI </h2>
 
         <div style={formContainerStyle}>
           <div style={cardStyle}>
